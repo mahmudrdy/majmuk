@@ -1,0 +1,17 @@
+{
+  "name": "Dzikir Premium",
+  "short_name": "Dzikir",
+  "description": "Buku Dzikir Premium dengan pengalaman 3D",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "dzikir_app_icon_1776919855350.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

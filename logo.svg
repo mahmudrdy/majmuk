@@ -1,0 +1,27 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Premium Background -->
+  <rect width="512" height="512" rx="128" fill="url(#paint0_linear)"/>
+  
+  <!-- Outer Tasbih Ring -->
+  <path d="M256 120C180.89 120 120 180.89 120 256C120 331.11 180.89 392 256 392C331.11 392 392 331.11 392 256" stroke="white" stroke-width="24" stroke-linecap="round" opacity="0.9"/>
+  
+  <!-- Inner Decorative Ornaments -->
+  <path d="M256 180C214.026 180 180 214.026 180 256C180 297.974 214.026 332 256 332" stroke="white" stroke-width="12" stroke-dasharray="20 20" opacity="0.6"/>
+  
+  <!-- Central Golden Point (Light) -->
+  <circle cx="256" cy="256" r="40" fill="url(#gold_grad)"/>
+  
+  <!-- Compass-like markers -->
+  <path d="M256 70V100M256 412V442M70 256H100M412 256H442" stroke="white" stroke-width="12" stroke-linecap="round" opacity="0.4"/>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1E40AF"/>
+    </linearGradient>
+    <linearGradient id="gold_grad" x1="220" y1="220" x2="292" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE047"/>
+      <stop offset="1" stop-color="#CA8A04"/>
+    </linearGradient>
+  </defs>
+</svg>

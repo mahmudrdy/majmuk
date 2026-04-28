@@ -1,16 +1,16 @@
 {
-  "name": "Dzikir Premium",
-  "short_name": "Dzikir",
-  "description": "Buku Dzikir Premium dengan pengalaman 3D",
+  "name": "Dzikir Darussalam",
+  "short_name": "Darussalam",
+  "description": "Aplikasi Dzikir & Surah Premium Darussalam",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f8fafc",
-  "theme_color": "#1e3a8a",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "dzikir_app_icon_1776919855350.png",
-      "sizes": "1024x1024",
-      "type": "image/png",
+      "src": "logo.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
       "purpose": "any maskable"
     }
   ]

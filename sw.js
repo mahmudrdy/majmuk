@@ -1,12 +1,15 @@
-const CACHE_NAME = 'dzikir-v1';
+const CACHE_NAME = 'dzikir-v3';
 const ASSETS = [
     './',
     './index.html',
+    './dzikir.html',
+    './yasin.html',
+    './mulk.html',
+    './rahman.html',
     './style.css',
     './script.js',
     './manifest.json',
-    './dzikir_app_icon_1776919855350.png',
-    './modern_islamic_minimalist_bg_1776919221244.png'
+    './logo.svg'
 ];
 
 self.addEventListener('install', (event) => {
